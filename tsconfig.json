@@ -9,6 +9,8 @@
     }
   ],
   "compilerOptions": {
-    "outDir":"./"
+    "outDir":"./",
+    "preserveValueImports":false,
+    "isolatedModules":false
   }
 }
